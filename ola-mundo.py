@@ -7,7 +7,6 @@ casas=dict.fromkeys(list(range(1,casa+1)),'')
 casas[gato]='gato'
 while True:
     tentativa=int(input())
-    while (
     if (casas[tentativa]=='gato'):
         print('achou')
         break
