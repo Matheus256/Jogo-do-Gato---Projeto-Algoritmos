@@ -46,6 +46,7 @@ casas=dict.fromkeys(list(range(1,casa+1)),'')
 casas[gato]='gato'
 tentativas=0
 
+#Lembrar de mudar o caminho
 photo = PhotoImage(file = "/home/marcosasn/Documentos/Algoritmos/casa.png")
 cat = PhotoImage(file = "/home/marcosasn/Documentos/Algoritmos/cat.png") 
 
