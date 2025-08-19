@@ -47,8 +47,8 @@ casas[gato]='gato'
 tentativas=0
 
 #Lembrar de mudar o caminho
-photo = PhotoImage(file = "/home/marcosasn/Documentos/Algoritmos/casa.png")
-cat = PhotoImage(file = "/home/marcosasn/Documentos/Algoritmos/cat.png") 
+photo = PhotoImage(file = "./casa.png")
+cat = PhotoImage(file = "./cat.png") 
 
 
 FONT_STYLE1 = ('Arial', 25, 'bold')
