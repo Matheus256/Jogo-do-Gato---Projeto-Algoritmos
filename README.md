@@ -14,4 +14,4 @@ Para jogar é preciso instalar o tkinter do python, no entanto a instalação n�
 feita por meio do ```pip``` (ou outro instalador do python), porém a instalação pode ser feita
 com o comando
 
-```sudo apt-get install python3-tk```
+```bash sudo apt-get install python3-tk```
