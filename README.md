@@ -10,8 +10,8 @@ aleatória.
 
 ## 🚀 Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Tkinter](https://img.shields.io/badge/Tkinter-FFDD00?style=for-the-badge&logo=python&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FFDD00?style=for-the-badge&logo=python&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 O projeto usa o **tkinter** para apresentar uma interface gráfica de interação com os jogadores.  
