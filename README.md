@@ -7,3 +7,11 @@ escondido. Lembrando que a posição inicial do gato é escolhida de maneira
 aleatória. 
 
 Bom jogo!!
+
+## Tecnologias
+O projeto usa o tkinter para apresentar uma interfae gráfica de interação com os jogadores.
+Para jogar é preciso instalar o tkinter do python, no entanto a instalação não pode ser
+feita por meio do ```pip``` (ou outro instalador do python), porém a instalação pode ser feita
+com o comando
+
+```sudo apt-get install python3-tk```
