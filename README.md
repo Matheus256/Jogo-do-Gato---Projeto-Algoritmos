@@ -24,6 +24,6 @@ sudo apt-get install python3-tk
 ```
 ## 🤝 Contribuidores
 
-<a href="https://github.com/IsabellaTito/Projeto_Grafos/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=IsabellaTito/Projeto_Grafos"/>
+<a href="https://github.com/Matheus256/Jogo-do-Gato---Projeto-Algoritmos/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Matheus256/Jogo-do-Gato---Projeto-Algoritmos"/>
 </a>
